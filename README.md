@@ -29,11 +29,11 @@ Tambien se |
 &nbsp;
 &nbsp;
 
-## Screenshot
+## Screenshot de la practica realizada
 
-|  Primera Imagen(Icono diferente) | Segunda Imagen(Fuente diferente)  | Tercera Imagen(Imagen añadida) |   
-| :------------: | :------------: | :------------: | 
-|  <img src="https://i.postimg.cc/Vv9R8HDy/Whats-App-Image-2023-09-25-at-9-26-12-AM.jpg" width="200"/> | <img src="https://i.postimg.cc/xdKqtDCS/Whats-App-Image-2023-09-25-at-9-25-18-AM.jpg" width="200"/>  |  <img src="https://i.postimg.cc/NFLshWgF/Whats-App-Image-2023-09-25-at-9-25-18-AM-1.jpg" width="200"/> |
+|  Primera Imagen | Segunda Imagen  | 
+| :------------: | :------------: | 
+|  <img src="https://i.postimg.cc/tJcBCYFX/Whats-App-Image-2023-10-06-at-4-13-17-AM.jpg" width="200"/> | <img src="https://i.postimg.cc/mkSF8q2K/Whats-App-Image-2023-10-06-at-4-13-17-AM-1.jpg" width="200"/>  |
 
 
 
